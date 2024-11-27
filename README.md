@@ -39,6 +39,14 @@ A step-by-step series of examples that tell you how to get the environment runni
 3. On the Jupyter Notebook opened in your browser, go to the cloned/downloaded folder and click the Assignment4.ipynb file.
 4. Execute each block of code by pressing shift + enter or pressing the play button on the bar.
 
+## Brief Code Explanation
+### Installing 
+Install these required libraries using pip
+### Breakdown of Neural Network Classifier 
+Uses MLPClassifier with the following parameters:  hidden_layer_sizes=(5, 4, 5)  activation='relu' solver='adam'  max_iter=10000  random_state=100 o Evaluates the model using a confusion matrix and classification report.
+### Decision Tree Classifier
+Uses DecisionTreeClassifier with random_state=100. Evaluates the model using a confusion matrix and classification report.
+
 ## Contributing
 
 Contributions from the community are welcome! If you'd like to contribute to this project, please follow these guidelines:
