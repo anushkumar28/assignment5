@@ -1,6 +1,7 @@
 # ArtificialNeuralNetwork
 
-One Paragraph of the project description goes here
+Neural Networks are a machine learning framework that attempts to mimic the learning pattern of natural  biological neural networks. Biological neural networks have interconnected neurons with dendrites that receive inputs, then based on these inputs they produce an output signal through an axon to another neuron. We will try to mimic this process through the use of Artificial Neural Networks (ANN), which we will just refer to as neural networks. The process of creating a neural network begins with the most basic form, a 
+single perceptron.
 
 ## Getting Started
 
@@ -62,6 +63,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Rejoy James, Prof DATA 1202 DATA ANALYSIS TOOLS
