@@ -23,12 +23,12 @@ A step-by-step series of examples that tell you how to get the environment runni
 ```
 1. Go to the website https://www.anaconda.com/download/success
 2. Download the installer package corresponding to your Operating System( Windows, Linux, MacOS)
-![image](https://github.com/user-attachments/assets/93c48829-b88f-4a8d-8f1b-ee8620bd2cd1)
+![image](Images/Images1.png)
 3. Once downloaded, install the software.
 4. Open the Anaconda application by searching from your system's search box and click on jupyter notebook from the list of options.
-![image](https://github.com/user-attachments/assets/22362d66-def3-45a6-984c-c0b781c994c6)
+![image](Images/Images2.png)
 5. Alternatively, you can directly search for Jupyter Notebook on your system's search box and click on open
-![image](https://github.com/user-attachments/assets/81d9b46a-a6b6-4f92-b047-5ac51088efc1)
+![image](Images/Images3.png)
 ```
 
 ## Running the code
