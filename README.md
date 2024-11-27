@@ -4,7 +4,7 @@ One Paragraph of the project description goes here
 
 ## Getting Started
 
-These instructions will help you get this project up and running on your local machine. See the deployment section below for instructions on how to deploy the project on a live system.
+These instructions will help you get this project up and running on your local machine. It is preferred that you have basic programming knowledge (preferably in Python). See the deployment section below for instructions on how to deploy the project on a live system.
 
 ### Prerequisites
 
@@ -31,44 +31,27 @@ A step-by-step series of examples that tell you how to get the environment runni
 ![image](https://github.com/user-attachments/assets/81d9b46a-a6b6-4f92-b047-5ac51088efc1)
 ```
 
-## Running the tests
+## Running the code
 
 1. Clone the repository using ```git clone "the web URL"``` which can be accessed by clicking the code dropdown button.
-2. If Git is not installed on your system, the user can opt for the download zip option. 
-
-### Break down into end-to-end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+2. If Git is not installed on your system, the user can opt for the download zip option.
+3. On the Jupyter Notebook opened in your browser, go to the cloned/downloaded folder and click the Assignment4.ipynb file.
+4. Execute each block of code by pressing shift + enter or pressing the play button on the bar.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Contributions from the community are welcome! If you'd like to contribute to this project, please follow these guidelines:
+
+1. Fork this repository.
+2. Create a new branch for your contribution.
+3. Make your changes and improvements.
+4. Test your changes thoroughly.
+5. Create a pull request (PR) with a clear description of your contribution.
 
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning.
+
 ## Authors
 
 * **Anush Kumar**
