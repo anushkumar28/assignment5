@@ -20,7 +20,7 @@ What things do you need to install the software and how to install them
 
 A step-by-step series of examples that tell you how to get the environment running
 
-```
+
 1. Go to the website https://www.anaconda.com/download/success
 2. Download the installer package corresponding to your Operating System( Windows, Linux, MacOS)
 ![image](Images/Images1.png)
@@ -29,7 +29,7 @@ A step-by-step series of examples that tell you how to get the environment runni
 ![image](Images/Images2.png)
 5. Alternatively, you can directly search for Jupyter Notebook on your system's search box and click on open
 ![image](Images/Images3.png)
-```
+
 
 ## Running the code
 
